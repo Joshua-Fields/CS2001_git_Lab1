@@ -430,3 +430,8 @@ Student ID | Movie | Year of Release
 1911252 | Random movie | 2003 
 1911252 | Random movie | 2004 
 1911252 | Random movie | 2005 
+1813758 | Avengers: Infinity War | 2017
+1813758 | Avatar | 2009
+1813758 | Avengers: Civil War | 2016
+1813758 | Avengers: Age of Ultron | 2015
+1813758 | Life of Pi | 2012
